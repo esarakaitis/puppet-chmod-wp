@@ -1,0 +1,1 @@
+this is a puppet module to chmod recursively /opt/wordpress/wp-content/*
